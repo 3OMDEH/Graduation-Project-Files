@@ -1,0 +1,21 @@
+[Tensor Trust Dataset]
+
+Repository: https://github.com/HumanCompatibleAI/tensor-trust-data
+
+Direct Data Link (v1 JSONL): hijacking_robustness_dataset.jsonl
+
+%--------------------------------------------------------------------%
+
+[HarmBench]
+
+Repository: https://github.com/centerforaisafety/HarmBench
+
+Interactive Explorer: https://www.harmbench.org/about
+
+%--------------------------------------------------------------------%
+
+[HackAPrompt]
+
+Hugging Face Dataset: https://huggingface.co/datasets/hackaprompt/hackaprompt-dataset
+
+Pliny Version (2025 Update): https://huggingface.co/datasets/hackaprompt/Pliny_HackAPrompt_Dataset
